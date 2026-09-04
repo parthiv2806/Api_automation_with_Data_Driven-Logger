@@ -1,0 +1,85 @@
+{
+  "validUser_booking": {
+    "firstname": "Jim",
+    "lastname": "Brown",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2018-01-01",
+      "checkout": "2019-01-01"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  "missingRequiredFields": {
+    "firstname": "Jim",
+    "lastname": "Brown"
+  },
+
+  "emptyStrings": {
+    "firstname": "",
+    "lastname": "",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2018-01-01",
+      "checkout": "2019-01-01"
+    }
+  },
+
+  "invalidDataTypes": {
+    "firstname": 12345,
+    "lastname": true, 
+    "totalprice": "one hundred", 
+    "depositpaid": "yes", 
+    "bookingdates": "2018-01-01" 
+  },
+
+  "invalidDateFormat": {
+    "firstname": "Jim",
+    "lastname": "Brown",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "01/01/2018", 
+      "checkout": "2019-01-01"
+    }
+  },
+
+  "invalidDateLogic": {
+    "firstname": "Jim",
+    "lastname": "Brown",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2020-01-01",
+      "checkout": "2018-01-01" 
+    }
+  },
+
+  "nullValues": {
+    "firstname": null,
+    "lastname": null,
+    "totalprice": null,
+    "depositpaid": null,
+    "bookingdates": null
+  },
+
+  "negativeTotalPrice": {
+    "firstname": "Jim",
+    "lastname": "Brown",
+    "totalprice": -500, 
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2018-01-01",
+      "checkout": "2019-01-01"
+    }
+  },
+
+  "emptyBookingDatesObject": {
+    "firstname": "Jim",
+    "lastname": "Brown",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {}
+  }
+}

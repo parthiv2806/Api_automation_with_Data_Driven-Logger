@@ -4,9 +4,16 @@ import users from "../data/users.json";
 import { setToken } from "../utils/tokenmanager";
 import { initApiClient } from "../utils/apiclients";
 export const test = base.extend({
-  auth: [
+  apiClient: [
     async ({}, use) => {
       await initApiClient();
+      await use();
+    },
+    { scope: "worker" },
+  ],
+  auth: [
+    async ({ apiClient }, use) => {
+      //   await initApiClient();
       const response = await Login_function(users.validUser);
       const body = await response.json();
       console.log(body);
@@ -14,6 +21,24 @@ export const test = base.extend({
       await use({
         response,
         body,
+      });
+    },
+    { scope: "worker" },
+  ],
+  booking: [
+    async ({ apiClient }, use) => {
+      const response = await Create_booking(CreateBooking);
+
+      const body = await response.json();
+      console.log(body);
+      const bookingid = body.bookingid;
+
+      console.log("Created Booking ID:", bookingid);
+
+      await use({
+        response,
+        body,
+        bookingid,
       });
     },
     { scope: "worker" },
