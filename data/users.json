@@ -2,5 +2,44 @@
   "validUser": {
     "username": "admin",
     "password": "password123"
+  },
+  "invalidUsername": {
+    "username": "wrong_admin",
+    "password": "password123"
+  },
+  "invalidPassword": {
+    "username": "admin",
+    "password": "wrong_password"
+  },
+  "emptyUsername": {
+    "username": "",
+    "password": "password123"
+  },
+  "emptyPassword": {
+    "username": "admin",
+    "password": ""
+  },
+  "bothEmpty": {
+    "username": "",
+    "password": ""
+  },
+  "missingUsernameKey": {
+    "password": "password123"
+  },
+  "missingPasswordKey": {
+    "username": "admin"
+  },
+  "nullValues": {
+    "username": null,
+    "password": null
+  },
+  "wrongDataTypes": {
+    "username": 12345,
+    "password": true
+  },
+  "extraFields": {
+    "username": "admin",
+    "password": "password123",
+    "role": "superadmin"
   }
 }
