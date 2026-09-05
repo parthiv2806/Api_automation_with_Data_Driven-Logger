@@ -18,7 +18,9 @@
   "homepage": "https://github.com/parthiv2806/Api_automation_with_Data_Driven-Logger#readme",
   "devDependencies": {
     "@playwright/test": "^1.62.1",
-    "@types/node": "^26.4.1"
+    "@types/node": "^26.4.1",
+    "allure-commandline": "^2.43.0",
+    "allure-playwright": "^3.12.0"
   },
   "dependencies": {
     "ajv": "^8.20.0",

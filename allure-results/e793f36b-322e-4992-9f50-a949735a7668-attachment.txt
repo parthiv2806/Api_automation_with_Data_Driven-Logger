@@ -1,0 +1,6 @@
+2026-09-05T10:22:54.383Z [INFO] POST request started: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:54.677Z [INFO] POST request completed: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:54.677Z [INFO] Response status: 200
+2026-09-05T10:22:54.678Z [INFO] DELETE request started: https://restful-booker.herokuapp.com/booking/1236
+2026-09-05T10:22:54.970Z [INFO] DELETE request completed: https://restful-booker.herokuapp.com/booking/1236
+2026-09-05T10:22:54.970Z [INFO] Response status: 201

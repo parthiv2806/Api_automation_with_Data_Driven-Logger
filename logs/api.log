@@ -1321,3 +1321,117 @@
 2026-09-05T10:09:02.579Z [INFO] DELETE request started: https://restful-booker.herokuapp.com/booking/999999999
 2026-09-05T10:09:02.873Z [INFO] DELETE request completed: https://restful-booker.herokuapp.com/booking/999999999
 2026-09-05T10:09:02.874Z [INFO] Response status: 405
+2026-09-05T10:22:42.130Z [INFO] POST request started: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:43.629Z [INFO] POST request completed: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:43.629Z [INFO] Response status: 200
+2026-09-05T10:22:43.676Z [INFO] POST request started: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:43.944Z [INFO] POST request completed: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:43.944Z [INFO] Response status: 200
+2026-09-05T10:22:43.962Z [INFO] POST request started: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:44.340Z [INFO] POST request completed: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:44.340Z [INFO] Response status: 200
+2026-09-05T10:22:44.364Z [INFO] POST request started: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:44.748Z [INFO] POST request completed: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:44.748Z [INFO] Response status: 200
+2026-09-05T10:22:44.775Z [INFO] POST request started: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:45.054Z [INFO] POST request completed: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:45.055Z [INFO] Response status: 200
+2026-09-05T10:22:45.066Z [INFO] POST request started: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:45.362Z [INFO] POST request completed: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:45.362Z [INFO] Response status: 200
+2026-09-05T10:22:45.377Z [INFO] POST request started: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:45.671Z [INFO] POST request completed: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:45.671Z [INFO] Response status: 200
+2026-09-05T10:22:45.683Z [INFO] POST request started: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:45.976Z [INFO] POST request completed: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:45.976Z [INFO] Response status: 200
+2026-09-05T10:22:45.990Z [INFO] POST request started: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:46.282Z [INFO] POST request completed: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:46.282Z [INFO] Response status: 200
+2026-09-05T10:22:46.297Z [INFO] POST request started: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:46.589Z [INFO] POST request completed: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:46.589Z [INFO] Response status: 200
+2026-09-05T10:22:46.602Z [INFO] POST request started: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:46.896Z [INFO] POST request completed: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:46.896Z [INFO] Response status: 200
+2026-09-05T10:22:46.921Z [INFO] POST request started: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:47.204Z [INFO] POST request completed: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:47.204Z [INFO] Response status: 200
+2026-09-05T10:22:47.224Z [INFO] POST request started: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:47.509Z [INFO] POST request completed: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:47.509Z [INFO] Response status: 500
+2026-09-05T10:22:47.520Z [INFO] POST request started: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:47.808Z [INFO] POST request completed: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:47.808Z [INFO] Response status: 200
+2026-09-05T10:22:47.814Z [INFO] POST request started: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:48.124Z [INFO] POST request completed: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:48.124Z [INFO] Response status: 500
+2026-09-05T10:22:48.135Z [INFO] POST request started: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:48.432Z [INFO] POST request completed: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:48.432Z [INFO] Response status: 200
+2026-09-05T10:22:48.440Z [INFO] POST request started: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:48.739Z [INFO] POST request completed: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:48.739Z [INFO] Response status: 200
+2026-09-05T10:22:48.747Z [INFO] POST request started: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:49.045Z [INFO] POST request completed: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:49.045Z [INFO] Response status: 500
+2026-09-05T10:22:49.053Z [INFO] POST request started: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:49.317Z [INFO] POST request completed: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:49.317Z [INFO] Response status: 200
+2026-09-05T10:22:49.327Z [INFO] POST request started: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:49.667Z [INFO] POST request completed: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:49.667Z [INFO] Response status: 500
+2026-09-05T10:22:49.686Z [INFO] POST request started: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:49.962Z [INFO] POST request completed: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:49.963Z [INFO] Response status: 200
+2026-09-05T10:22:50.307Z [INFO] PATCH request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:50.587Z [INFO] PATCH request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:50.587Z [INFO] Response status: 200
+2026-09-05T10:22:50.598Z [INFO] PATCH request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:50.891Z [INFO] PATCH request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:50.891Z [INFO] Response status: 200
+2026-09-05T10:22:50.905Z [INFO] PATCH request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:51.196Z [INFO] PATCH request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:51.196Z [INFO] Response status: 200
+2026-09-05T10:22:51.209Z [INFO] PATCH request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:51.508Z [INFO] PATCH request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:51.508Z [INFO] Response status: 200
+2026-09-05T10:22:51.523Z [INFO] PATCH request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:51.815Z [INFO] PATCH request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:51.815Z [INFO] Response status: 200
+2026-09-05T10:22:51.829Z [INFO] PATCH request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:52.120Z [INFO] PATCH request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:52.120Z [INFO] Response status: 200
+2026-09-05T10:22:52.133Z [INFO] PATCH request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:52.431Z [INFO] PATCH request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:52.431Z [INFO] Response status: 200
+2026-09-05T10:22:52.448Z [INFO] PATCH request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:52.741Z [INFO] PATCH request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:52.741Z [INFO] Response status: 403
+2026-09-05T10:22:52.765Z [INFO] PUT request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:53.142Z [INFO] PUT request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:53.142Z [INFO] Response status: 200
+2026-09-05T10:22:53.157Z [INFO] PUT request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:53.449Z [INFO] PUT request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:53.449Z [INFO] Response status: 200
+2026-09-05T10:22:53.462Z [INFO] PUT request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:53.757Z [INFO] PUT request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:53.757Z [INFO] Response status: 400
+2026-09-05T10:22:53.768Z [INFO] PUT request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:54.064Z [INFO] PUT request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:54.064Z [INFO] Response status: 403
+2026-09-05T10:22:54.083Z [INFO] DELETE request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:54.370Z [INFO] DELETE request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:54.370Z [INFO] Response status: 201
+2026-09-05T10:22:54.383Z [INFO] POST request started: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:54.677Z [INFO] POST request completed: https://restful-booker.herokuapp.com/booking
+2026-09-05T10:22:54.677Z [INFO] Response status: 200
+2026-09-05T10:22:54.678Z [INFO] DELETE request started: https://restful-booker.herokuapp.com/booking/1236
+2026-09-05T10:22:54.970Z [INFO] DELETE request completed: https://restful-booker.herokuapp.com/booking/1236
+2026-09-05T10:22:54.970Z [INFO] Response status: 201
+2026-09-05T10:22:55.299Z [INFO] DELETE request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:55.599Z [INFO] DELETE request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:55.599Z [INFO] Response status: 403
+2026-09-05T10:22:55.606Z [INFO] DELETE request started: https://restful-booker.herokuapp.com/booking/999999999
+2026-09-05T10:22:55.907Z [INFO] DELETE request completed: https://restful-booker.herokuapp.com/booking/999999999
+2026-09-05T10:22:55.907Z [INFO] Response status: 405
