@@ -28,7 +28,7 @@ export const test = base.extend({
     { scope: "worker" },
   ],
   booking: [
-    async ({ apiClient }, use) => {
+    async ({ apiClient, auth }, use) => {
       const response = await Create_booking(bookingData.validUser_booking);
 
       const body = await response.json();
@@ -41,6 +41,7 @@ export const test = base.extend({
         response,
         body,
         bookingid,
+        token: auth.body.token,
       });
     },
     { scope: "worker" },

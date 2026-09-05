@@ -1,0 +1,29 @@
+{
+  "updateFirstname": {
+    "firstname": "UpdatedParthiv"
+  },
+  "updateLastname": {
+    "lastname": "NewBhavsar"
+  },
+  "updateTotalPrice": {
+    "totalprice": 99999
+  },
+  "updateDepositPaid": {
+    "depositpaid": true
+  },
+  "updateBookingDates": {
+    "bookingdates": {
+      "checkin": "2023-06-01",
+      "checkout": "2023-06-10"
+    }
+  },
+  "updateAdditionalNeeds": {
+    "additionalneeds": "Dinner"
+  },
+  "updateMultipleFields": {
+    "firstname": "UpdatedFirst",
+    "lastname": "UpdatedLast",
+    "totalprice": 55555,
+    "depositpaid": true
+  }
+}
