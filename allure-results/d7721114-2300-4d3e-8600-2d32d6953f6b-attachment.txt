@@ -1,0 +1,3 @@
+2026-09-05T10:22:51.829Z [INFO] PATCH request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:52.120Z [INFO] PATCH request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:52.120Z [INFO] Response status: 200

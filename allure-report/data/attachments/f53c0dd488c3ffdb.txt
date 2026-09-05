@@ -1,0 +1,4 @@
+2026-09-05T10:22:42.130Z [INFO] POST request started: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:43.629Z [INFO] POST request completed: https://restful-booker.herokuapp.com/auth
+2026-09-05T10:22:43.629Z [INFO] Response status: 200
+{ token: '11a2891f2b723c1' }

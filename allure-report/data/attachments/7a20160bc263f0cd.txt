@@ -1,0 +1,3 @@
+2026-09-05T10:22:54.083Z [INFO] DELETE request started: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:54.370Z [INFO] DELETE request completed: https://restful-booker.herokuapp.com/booking/1193
+2026-09-05T10:22:54.370Z [INFO] Response status: 201
