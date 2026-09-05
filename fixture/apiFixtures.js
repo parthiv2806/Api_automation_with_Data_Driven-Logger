@@ -3,6 +3,8 @@ import { Login_function } from "../services/login_service";
 import users from "../data/users.json";
 import { setToken } from "../utils/tokenmanager";
 import { initApiClient } from "../utils/apiclients";
+import { Create_booking } from "../services/Create_booking_servicce";
+import bookingData from "../data/createBooking.json";
 export const test = base.extend({
   apiClient: [
     async ({}, use) => {
@@ -27,7 +29,7 @@ export const test = base.extend({
   ],
   booking: [
     async ({ apiClient }, use) => {
-      const response = await Create_booking(CreateBooking);
+      const response = await Create_booking(bookingData.validUser_booking);
 
       const body = await response.json();
       console.log(body);
