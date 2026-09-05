@@ -44,3 +44,13 @@ export async function put(url, data) {
   logger.info(`Response status: ${response.status()}`);
   return response;
 }
+
+export async function del(url) {
+  logger.info(`DELETE request started: ${url}`);
+  const response = await apicontext.delete(url, {
+    headers: { Cookie: `token=${getToken()}` },
+  });
+  logger.info(`DELETE request completed: ${url}`);
+  logger.info(`Response status: ${response.status()}`);
+  return response;
+}
